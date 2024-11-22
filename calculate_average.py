@@ -31,4 +31,4 @@ def calculate_average(numbers):
 
 # Example usage
 numbers = [40, 55, 22, 88, 145]
-print("The average is:", calculate_average(numbers))  # Expected output: The average is: 74.2
+print("The average is:", calculate_average(numbers))  # Expected output: The average is: 70
